@@ -1822,7 +1822,7 @@ pre .javascript .function {
   width: 4px;
   height: 4px;
   border-radius: 50%;
-  background: #04ff46;
+  background: #543cd6;
 }
 .links-of-blogroll {
   font-size: 13px;
@@ -2441,7 +2441,7 @@ pre .javascript .function {
 #schedule ul#event-list li.event h2.event-summary:before {
   display: inline-block;
   font-family: FontAwesome;
-  font-size: 8px;
+  font-size: 18px;
   content: '\f111';
   vertical-align: middle;
   margin-right: 25px;
